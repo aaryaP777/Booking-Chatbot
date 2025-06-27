@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.log
+
+# Environments
+.env
+venv/
+ENV/
+.venv/
+
+# Token & credentials
+credentials.json
+token.json
+
+# IDE/editor config
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Output/cache
+*.db
+*.sqlite3
+*.sqlite
+*.bak
